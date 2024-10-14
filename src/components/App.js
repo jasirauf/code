@@ -18,7 +18,7 @@ function App() {
     </div>
     <div class="d-flex dss-alert-btn-group">
       <button class="dss-btn dss-btn-primary dss-btn-sm " type="button">Button</button>
-      <button class="dss-btn dss-btn-outlined dss-btn-sm " type="button">Button</button>
+      <button class="dss-btn dss-btn-secondary dss-btn-sm " type="button">Button</button>
     </div>
     <span class="dss-alert-close-icon">
       <svg width="8" height="8" viewBox="0 0 8 8" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -39,7 +39,7 @@ function App() {
   --dss-background-button-danger-hovered: #D31510;
   --dss-background-button-danger-pressed: #D31510;
   --dss-background-button-danger-disabled: #17171740;
-  --dss-background-button-default-primary: #E0DFF5;
+  --dss-background-button-default-primary: #1ea120de;
   --dss-background-button-default-hovered: #c8c6e8;
   --dss-background-button-default-pressed: #c8c6e8;
   --dss-background-button-default-disabled: #1717170d;
